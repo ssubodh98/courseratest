@@ -1,0 +1,31 @@
+#sec{
+    background-color: #efd2a9;
+}
+
+
+#navig{
+    background-color: #ddcece;
+}
+
+#heading{
+    color: #fd4a08;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: #ddceb9;
+    margin-bottom: 10px;    
+}
+
+.navbar-brand{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+p.text-center{
+    font-size: 1.2em;
+    font-style: oblique;
+    
+}
+
+
